@@ -1,0 +1,7 @@
+package workingWithMetods.core.utilites.adapter.concretes;
+
+public class KpsService {
+	public boolean checkPerson(String nationalityId,String firstName,String lastName,int year) {
+		return true;
+	}
+}
